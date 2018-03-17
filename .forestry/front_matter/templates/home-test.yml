@@ -1,0 +1,11 @@
+---
+hide_body: false
+fields:
+- type: select
+  config:
+    source:
+      type: datafiles
+      file: _data-locale-yml
+      path: locale
+  label: Tets
+  name: tets
